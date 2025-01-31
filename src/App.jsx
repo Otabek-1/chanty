@@ -2,14 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from "./imges/lgoo.jpg";
 import hero from './imges/video-calling.png';
+
+import "./fontawesome-free-5.15.4-web/css/all.min.css"
 export default function App() {
   return (
     <div className="bg-light vh-100 vw-100">
-      <nav className="navbar navbar-expand-lg navbar-light bg-white  px-4">
+      <nav className="navbar navbar-expand-lg navbar-light   px-4">
         {/* Left Side: Logo and Chanty Text */}
         <div className="d-flex align-items-center">
           <Link to="/" className="d-flex align-items-center text-decoration-none">
-            <img src={logo} alt="Chanty Logo" className="logo-img me-2" style={{ width: '50px', height: '50px' }} />
+            <img src={logo} alt="Chanty Logo" className="logo-img me-2" style={{ width: '50px', height: '50px', borderRadius:"50%" }} />
             <span style={{ fontFamily: "'Pacifico', cursive", fontSize: '24px', color: '#f12711' }}>Chanly</span>
           </Link>
         </div>
@@ -45,7 +47,11 @@ export default function App() {
         <section className="features">
           <h2 className="features-title">With us you can</h2>
             <div className="features-cards">
-              <div className="feature-card"></div>
+              <div className="feature-card">
+                <div className="texts">
+                  <h1>nvjsfnjlk</h1>
+                </div>
+              </div>
               <div className="feature-card"></div>
               <div className="feature-card"></div>
             </div>
