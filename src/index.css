@@ -365,7 +365,7 @@ body::-webkit-scrollbar-thumb {
 
 .square {
   width: 100%;
-  height: 950px;
+  height: 1250px;
   background: #f15c11;
   opacity: .5;
   position: absolute;

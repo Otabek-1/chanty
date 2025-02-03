@@ -1,0 +1,17 @@
+.trends{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+i{
+    color: #ff5100;
+}
+
+h2{
+    color: white;
+}

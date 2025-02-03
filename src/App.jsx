@@ -50,7 +50,7 @@ export default function App() {
         </div>
       </div>
 
-      <main className="main">
+      <main className="main" style={{flexDirection:"column"}}>
         <section className="features" data-aos="zoom-in">
           <h2 className="features-title">With us you can</h2>
           <div className="features-cards">
