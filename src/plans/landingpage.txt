@@ -1,0 +1,31 @@
+🔹 1. Asosiy banner (Hero section)
+Qisqa va ta’sirli sarlavha (Masalan: "Barcha kanallaringizni bitta joydan boshqaring")
+Qo‘shimcha tushuntiruvchi matn (Nima uchun Chanly foydali ekanligini qisqacha bayon etish)
+CTA (Call-to-Action) tugmasi ("Boshlash", "Bepul sinab ko‘ring" yoki "Hozir qo‘shiling")
+Illyustratsiya yoki platformaning ishlashidan skrinshot
+🔹 2. Asosiy imkoniyatlar (Features section)
+Telegram, Instagram va Chanly kanallarini boshqarish imkoniyatlari
+Har bir funksiyani tushuntiruvchi piktogramma va matn
+Foydali xususiyatlar (avtomatlashtirish, analitika, statistika va boshqalar)
+🔹 3. Platforma qanday ishlaydi? (How It Works section)
+3-4 qadamda Chanly'dan foydalanish yo‘riqnomasi
+Har bir qadam uchun vizual tasvir yoki animatsiya
+🔹 4. Foydalanuvchilar fikri (Testimonials section)
+Chanly foydalanuvchilari tomonidan ijobiy fikrlar va sharhlar
+Har bir foydalanuvchi uchun profil rasmi, ismi va ijtimoiy ishoralar (agar kerak bo‘lsa)
+🔹 5. Tariflar va obuna rejasi (Pricing section)
+Bepul va pullik versiyalar o‘rtasidagi farqlar
+Narxlar jadvali va har bir rejaning afzalliklari
+"Bepul sinab ko‘ring" tugmasi bilan CTA
+🔹 6. Blog yoki yangiliklar bo‘limi (Blog/News section) (Ixtiyoriy, lekin foydali)
+So‘nggi yangiliklar, foydali maqolalar va platforma yangilanishlari
+SEO uchun yaxshi bo‘lib, saytga organik trafik olib keladi
+🔹 7. Savol-javob (FAQ section)
+Foydalanuvchilarning eng ko‘p so‘raydigan savollariga qisqa va aniq javoblar
+Masalan, "Chanly qanday ishlaydi?", "Bu bepulmi?", "Xavfsizmi?" kabi savollar
+🔹 8. Aloqa va qo‘llab-quvvatlash (Contact & Support section)
+Foydalanuvchilar aloqa shakli, email yoki Telegram orqali bog‘lanishi mumkin bo‘lgan joy
+Tezkor javob berish uchun FAQ yoki chat-bot havolasi
+🔹 9. Ro‘yxatdan o‘tish yoki yuklab olish bo‘limi (Final CTA Section)
+Tugmani katta va jozibali qilish ("Hozir boshlash" yoki "Bepul yuklab olish")
+Agar mobil ilova bo‘lsa, App Store va Google Play tugmalari
