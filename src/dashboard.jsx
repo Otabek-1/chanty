@@ -28,7 +28,7 @@ export default function Dashboard() {
             <div className="others">
                 <div className="search-field">
                     <div className="search-container">
-                        <input type="text" placeholder="Search here..." className="search-input" />
+                        <input type="text" placeholder="Search people, posts or blogs..." className="search-input" />
                         <i className="fas fa-search"></i>
                     </div>
 
@@ -110,7 +110,7 @@ export default function Dashboard() {
                             </h2>
 
                             <div className="videos-container">
-                                <Link className="videos-item">
+                                <Link to='/watch/gdhtthhhth' className="videos-item">
                                     <img src="https://picsum.photos/300/300" alt="" />
                                     <span className="video-title">A short story</span>
                                     <span className="author">Alvaro Nunez</span>
